@@ -19,7 +19,7 @@ A fun way to introduce myself
 * Case: *Phanteks XT Pro Ultra* 
 
 # How did I fall in love with technology?
-* Thanks to video games, freeBSD and the PS3 architecture.
+* Thanks to video games and the PS3 architecture.
 
 <pre> 
 (:`--..___...-''``-._             |`._
