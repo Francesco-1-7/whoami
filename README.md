@@ -3,7 +3,7 @@ A fun way to introduce myself
 
 * I'm *Francesco* 
 * I use *GNU/Linux Arch Kde*, *FreeBSD* and *Windows11 Pro*.
-* Grass is out of the question now, but I used to live on the greenest, freshest grass 24/7.
+* I *love everything* about the *computer world*, both hardware and software
 * I'm proficient in *Python*, *networking* and *security*.
 
 # PC specs
