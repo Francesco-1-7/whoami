@@ -1,12 +1,13 @@
 # whoami
-A fun way to introduce myself
+A "fun" way to introduce myself
 
 * I'm *Francesco* 
-* I use *GNU/Linux Arch Kde Wayland*
+* I only use *GNU/Linux Arch Kde Wayland* on all my PC in single boot. 
 * I *love everything* about the *computer world*, both hardware and software
-* I'm proficient in *C* *Python*, *networking* and *security*.
+* I'm proficient in some obscure areas of coding, and I'm passionate about operating systems and many other secret things.
+* In life, I enjoy spending time with my loved ones, my friends, my hardware and software, and much more.
 
-# PC specs
+# PC specs (Because it's always important, in some cases this speaks more than a curriculum ;P)
 * PC name: *Biscuit Maker*
 * MoBo: *MSI MAG 850 Tomahawk WiFi7* 
 * CPU: *AMD Ryzen 9700X*
@@ -19,7 +20,7 @@ A fun way to introduce myself
 * Case: *Phanteks XT Pro Ultra* 
 
 # How did I fall in love with technology?
-* Thanks to video games and the PS3 architecture.
+* Thanks to video games and the PS3 architecture, operating system and XMB. With my first approach to Linux on Yellow Dog for PS3.
 
 <pre> 
 (:`--..___...-''``-._             |`._
